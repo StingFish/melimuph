@@ -679,6 +679,7 @@ section {
   text-align: center;
   transition: 0.3s;
   border-radius: 5px;
+  background-color: white;
 }
 .services .service-box .icon {
   font-size: 36px;
@@ -691,7 +692,7 @@ section {
   transition: 0.3s;
 }
 .services .service-box h3 {
-  color: #444444;
+  color: black;
   font-weight: 700;
 }
 .services .service-box .read-more {
@@ -751,7 +752,7 @@ section {
 }
 .services .service-box.red .icon {
   color: #e9222c;
-  background: #fef7f8;
+  background: #ffd6dc;
 }
 .services .service-box.red .read-more {
   color: #e9222c;
